@@ -1,0 +1,15 @@
+C:\Users\prati\Documents\LinqAssignments\obj\Debug\net6.0\LinqAssignments.csproj.AssemblyReference.cache
+C:\Users\prati\Documents\LinqAssignments\obj\Debug\net6.0\LinqAssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\Documents\LinqAssignments\obj\Debug\net6.0\LinqAssignments.AssemblyInfoInputs.cache
+C:\Users\prati\Documents\LinqAssignments\obj\Debug\net6.0\LinqAssignments.AssemblyInfo.cs
+C:\Users\prati\Documents\LinqAssignments\obj\Debug\net6.0\LinqAssignments.csproj.CoreCompileInputs.cache
+C:\Users\prati\Documents\LinqAssignments\bin\Debug\net6.0\LinqAssignments.exe
+C:\Users\prati\Documents\LinqAssignments\bin\Debug\net6.0\LinqAssignments.deps.json
+C:\Users\prati\Documents\LinqAssignments\bin\Debug\net6.0\LinqAssignments.runtimeconfig.json
+C:\Users\prati\Documents\LinqAssignments\bin\Debug\net6.0\LinqAssignments.dll
+C:\Users\prati\Documents\LinqAssignments\bin\Debug\net6.0\LinqAssignments.pdb
+C:\Users\prati\Documents\LinqAssignments\obj\Debug\net6.0\LinqAssignments.dll
+C:\Users\prati\Documents\LinqAssignments\obj\Debug\net6.0\refint\LinqAssignments.dll
+C:\Users\prati\Documents\LinqAssignments\obj\Debug\net6.0\LinqAssignments.pdb
+C:\Users\prati\Documents\LinqAssignments\obj\Debug\net6.0\LinqAssignments.genruntimeconfig.cache
+C:\Users\prati\Documents\LinqAssignments\obj\Debug\net6.0\ref\LinqAssignments.dll
